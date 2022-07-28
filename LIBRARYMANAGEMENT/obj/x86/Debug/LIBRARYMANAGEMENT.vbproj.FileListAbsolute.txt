@@ -1,0 +1,53 @@
+C:\Users\shayne\Desktop\DUMP FILES\Projects\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\bin\Debug\LIBRARYMANAGEMENT.exe
+C:\Users\shayne\Desktop\DUMP FILES\Projects\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\bin\Debug\LIBRARYMANAGEMENT.pdb
+C:\Users\shayne\Desktop\DUMP FILES\Projects\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\bin\Debug\LIBRARYMANAGEMENT.xml
+C:\Users\shayne\Desktop\DUMP FILES\Projects\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\WindowsApplication1.Books.resources
+C:\Users\shayne\Desktop\DUMP FILES\Projects\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\shayne\Desktop\DUMP FILES\Projects\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\shayne\Desktop\DUMP FILES\Projects\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\shayne\Desktop\DUMP FILES\Projects\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\WindowsApplication1.StudentForm.resources
+C:\Users\shayne\Desktop\DUMP FILES\Projects\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\LIBRARYMANAGEMENT.vbproj.GenerateResource.Cache
+C:\Users\shayne\Desktop\DUMP FILES\Projects\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\LIBRARYMANAGEMENT.exe
+C:\Users\shayne\Desktop\DUMP FILES\Projects\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\LIBRARYMANAGEMENT.xml
+C:\Users\shayne\Desktop\DUMP FILES\Projects\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\LIBRARYMANAGEMENT.pdb
+C:\Users\shayne\Desktop\DUMP FILES\Projects\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\WindowsApplication1.progressbar.resources
+C:\Users\shayne\Desktop\DUMP FILES\Projects\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\shayne\Desktop\DUMP FILES\Projects\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\WindowsApplication1.studentwindow.resources
+C:\Users\shayne\Desktop\DUMP FILES\Projects\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\WindowsApplication1.studentwindowaccount.resources
+C:\Users\shayne\Desktop\DUMP FILES\Projects\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\WindowsApplication1.studentprofilebook.resources
+C:\Users\shayne\Desktop\DUMP FILES\Projects\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\WindowsApplication1.studentprofiletransaction.resources
+C:\Users\shayne\Desktop\DUMP FILES\Projects\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\WindowsApplication1.progressbarstudent.resources
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\LIBRARYMANAGEMENT.exe
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\LIBRARYMANAGEMENT.xml
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\LIBRARYMANAGEMENT.pdb
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\bin\Debug\LIBRARYMANAGEMENT.exe
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\bin\Debug\LIBRARYMANAGEMENT.pdb
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\bin\Debug\LIBRARYMANAGEMENT.xml
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\WindowsApplication1.Books.resources
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\WindowsApplication1.progressbar.resources
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\WindowsApplication1.progressbarstudent.resources
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\WindowsApplication1.StudentForm.resources
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\WindowsApplication1.studentprofilebook.resources
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\WindowsApplication1.studentprofiletransaction.resources
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\WindowsApplication1.studentwindow.resources
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\WindowsApplication1.studentwindowaccount.resources
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\LIBRARYMANAGEMENT.vbproj.GenerateResource.Cache
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\LIBRARYMANAGEMENT.vbproj.CoreCompileInputs.cache
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\bin\Debug\LIBRARYMANAGEMENT.exe.config
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\bin\Debug\MySql.Data.dll
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\LIBRARYMANAGEMENT.vbproj.CopyComplete
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\bin\Debug\Google.Protobuf.dll
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\bin\Debug\ZstdNet.dll
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\bin\Debug\System.Buffers.dll
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\bin\Debug\MySql.Data.xml
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\LIBRARYMANAGEMENT.exe.config
+C:\Users\shayne\Desktop\LIBRARYMANAGEMENT\LIBRARYMANAGEMENT\obj\x86\Debug\LIBRARYMANAGEMENT.vbprojAssemblyReference.cache
